@@ -1,2 +1,1 @@
 print("bjcre")
-print("yrkfg")
