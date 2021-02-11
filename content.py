@@ -1,1 +1,1 @@
-print("osvyt")
+print("dtdsc")
