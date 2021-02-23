@@ -1,3 +1,3 @@
 print("eeffe")
 print("orxsj")
-print("ntnxs")
+print("tktni")
